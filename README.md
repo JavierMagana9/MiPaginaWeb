@@ -39,7 +39,7 @@ The project is organized as follows:
 
 - 
 
-#(ESPAÑOL) Proyecto de Sitio Web de Guitarras
+# (ESPAÑOL) Proyecto de Sitio Web de Guitarras
 
 Este proyecto es un sitio web dedicado a la presentación de guitarras y actividades relacionadas. El sitio web está compuesto por varias páginas HTML que incluyen información sobre la empresa, un portafolio de guitarras, y un formulario de contacto.
 
