@@ -37,7 +37,7 @@ The project is organized as follows:
 - **Images**: The images used on the website are from Pexels.
 - **Video**: The background video on the main page is from Pexels.
 
-- 
+
 
 # (ESPAÑOL) Proyecto de Sitio Web de Guitarras
 
